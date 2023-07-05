@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntentLogInApp</string>
+    <string name="Home_Sign_In">Sign In</string>
+    <string name="Home_First_Name">First Name</string>
+    <string name="Home_Last_In">Last Name</string>
+    <string name="Home_Registration_No">Registration No</string>
+    <string name="Home_Email">Email</string>
+    <string name="Home_Password">Password</string>
+    <string name="Home_Sign_Up">Sign Up</string>
+    <string name="or_Home_Text">or</string>
+    <string name="Sign_In_Email">Email</string>
+    <string name="Sign_In_Password">Password</string>
+    <string name="Sign_In_Activity2">Sign In</string>
+    <string name="Logged_Message">Logged In Successfully \'Your Dashboard\'</string>
+    <string name="Logged_Exit_Button">Exit</string>
+</resources>
